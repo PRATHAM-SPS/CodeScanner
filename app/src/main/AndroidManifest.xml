@@ -21,7 +21,7 @@
             </intent-filter>
         </activity>
 
-        <!--add in application tag-->
+        <!--add in application tagss-->
         <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/AppTheme"/>
 
