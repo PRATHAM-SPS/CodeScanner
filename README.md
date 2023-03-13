@@ -22,12 +22,12 @@ The compiler then executes the code and returns appropriate output.
 
 It supports 6 languages:-
 
-* python3
-* java
-* c
-* cpp
-* php
-* ruby
+* Python3
+* Java
+* C
+* Cpp
+* Php
+* Ruby
 
 Screenshots of the Application :- 
 
